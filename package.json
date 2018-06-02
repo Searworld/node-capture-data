@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "express": "^4.16.3",
+    "gbk": "^0.1.0",
+    "jsdom": "^11.11.0",
+    "segment": "^0.1.3"
+  }
+}
